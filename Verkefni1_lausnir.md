@@ -164,7 +164,8 @@
     test.forEach(function (element) {
         if (element % 3 === 0)
         {
-            test[test.indexOf(element)] += 100;
+            console.log(num + 100);
+           // test[test.indexOf(element)] += 100;
         }
     });
 
