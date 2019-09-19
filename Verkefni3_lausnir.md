@@ -10,7 +10,7 @@
 
 
 	 **Svar:**  
-	```JavaScript
+```JavaScript
 		// liður a) og b)
 	    function Spaceship(name, speed = 10, life = 10) {
 	      this.name = name;
@@ -28,7 +28,7 @@
 	    };
 
 		}
-		```
+```
 
 2. Gerðu það sama (sambærilegt) og síðasta lið en með notkun class - notaðu eftir þörfum; constructor, get, set, static, extends, super, mix-ins
 	**Svar:**  
